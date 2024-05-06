@@ -77,4 +77,4 @@ To perform the same process on Linux OS, run the commands provided below:
 
 ## Labs
 
-The solution to the lab homework should be posted on this repository at the appropriate time.
+The solution to the lab homework was posted to the repository inside the directory named Labs, except for Lab 4 solution.
