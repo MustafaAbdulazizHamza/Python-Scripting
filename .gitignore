@@ -1,7 +1,5 @@
 *.txt
-*Lab*
 !requirements.txt
-!Lab1_Hashing_Tool.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
